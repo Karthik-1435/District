@@ -1,0 +1,9 @@
+linux commands:
+sudo -i  >> login into root user
+pwd >>> check present working directory
+cd >> change the working directory
+hostaname -i >> see the private ip address
+date >> see the present date
+uptime >> running time
+dh -h >> see the volume size
+useradd uaer_name >> add new user 
