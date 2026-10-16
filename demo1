@@ -7,3 +7,5 @@ date >> see the present date
 uptime >> running time
 dh -h >> see the volume size
 useradd uaer_name >> add new user 
+chown >> this command is used to change the owners of a file/folder
+chmod >> this commad is used to change the permissions of a file/folder
